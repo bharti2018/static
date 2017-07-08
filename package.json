@@ -1,0 +1,19 @@
+{
+  "name": "2ndimpl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "0.0.1",
+    "lodash": "^4.17.4",
+    "yargs": "^8.0.1",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
